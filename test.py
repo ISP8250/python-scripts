@@ -12,6 +12,3 @@ try:
 except ValueError:
     print("Ошибка: Только числа (5, 3.14)!")
 print("=== Готово! ===")
-git add .
-git commit -m "Версия 2: Добавлен текст"
-git push
